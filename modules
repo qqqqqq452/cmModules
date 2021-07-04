@@ -1,6 +1,6 @@
 [module A]
-url = git@github.com:qqqqqq452/test2.git
+url = git@github.com:qqqqqq452/A.git
 
 
 [module B]
-url = git@github.com:qqqqqq452/testing.git
+url = git@github.com:qqqqqq452/B.git
